@@ -1,4 +1,4 @@
-// Coleccion de Snippets 
+// Coleccion de Snippets
 
 /*
 #1 - all
@@ -17,7 +17,4 @@ Este snippet comprueba si todos los elementos
 de la matriz son iguales.
 */
 
-const allEqual = arr => arr.every(val => val === arr[0]);
-
-allEqual ([1, 2, 3, 4, 5, 6]); // false
-allEqual ([1, 1, 1, 1]); // true
+<script src="https://gist.github.com/GeekyBear/c8bb12bac1b0eb2b1d776639ba57afb2.js"></script>
